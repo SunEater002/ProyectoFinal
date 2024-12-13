@@ -10,4 +10,4 @@ Proyecto de un landing de una tienda de repostería
 =======
 
 ## GitHub Pages
-- https://yuleiditho.github.io/BakeryProject/
+
